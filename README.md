@@ -1,0 +1,2 @@
+# research_master_movie_recommendation_system
+研究：テキスト情報を活用した映画推薦システムの開発
